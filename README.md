@@ -2,7 +2,7 @@
 
 ![](20160818.gif)  
 
-JavaScript, Canvas  
+Processing  
 
 [Everyday One Motion](http://motions.work/motion/366)  
 

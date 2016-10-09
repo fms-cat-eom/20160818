@@ -1,4 +1,6 @@
-# Everyday One Motion - 20160818 "Quaternion"  
+# Everyday One Motion - 20160818  
+
+"Quaternion"  
 
 ![](20160818.gif)  
 
